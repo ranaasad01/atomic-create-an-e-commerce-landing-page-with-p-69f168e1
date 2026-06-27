@@ -430,7 +430,7 @@ export default function HomePage() {
                 }}
                 className="inline-flex items-center gap-2 px-6 py-3 bg-white hover:bg-slate-50 text-slate-800 font-semibold rounded-xl border border-black/8 shadow-sm transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500"
               >
-                View Collections
+                View
               </motion.a>
             </motion.div>
 
