@@ -122,7 +122,7 @@ const testimonials = [
     location: "New York, NY",
     avatar: "https://images.squarespace-cdn.com/content/v1/55ecad93e4b097dd68b71341/1552508220117-2ENOH1V1WPO9B15U9QOK/18922208_10211298040064581_7261989867091406680_n.jpg",
     rating: 5,
-    text: "The merino turtleneck is genuinely the softest thing I own. Arrived beautifully packaged and fits exactly as described. Lumière has become my go-to for elevated basics.",
+    text: "The merino turtleneck is genuinely the softest thing I own. Arrived beautifully packaged and fits exactly as described.",
     product: "Merino Wool Turtleneck",
   },
   {
