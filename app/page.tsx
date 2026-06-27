@@ -85,7 +85,7 @@ const products = [
     originalPrice: 240,
     rating: 4.9,
     reviewCount: 167,
-    image: "https://urbandesigner.co/cdn/shop/files/Minimalist_stainless_steel_in_silver_natural_wooden_watch_with_Premium_Leather_band_030.jpg?v=1726166723",
+    image: "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/assets/69f168e1-7620-4d43-8065-78420d42b136/2b30cc14ee4b4dd3a5ea639b35bef254.png",
     badge: "Sale",
     description: "Swiss quartz movement in a slim 38mm stainless case.",
   },
@@ -486,7 +486,7 @@ export default function HomePage() {
               </div>
               <div className="rounded-2xl overflow-hidden aspect-[3/4] shadow-[0_4px_6px_rgba(0,0,0,0.04),0_16px_32px_-8px_rgba(0,0,0,0.12)] border border-black/5">
                 <img
-                  src="https://urbandesigner.co/cdn/shop/files/Minimalist_stainless_steel_in_silver_natural_wooden_watch_with_Premium_Leather_band_030.jpg?v=1726166723"
+                  src="https://titoaistorageaccount.blob.core.windows.net/titoai-storage/assets/69f168e1-7620-4d43-8065-78420d42b136/2b30cc14ee4b4dd3a5ea639b35bef254.png"
                   alt="Minimalist Leather Watch"
                   className="w-full h-full object-cover"
                 />
@@ -855,7 +855,7 @@ export default function HomePage() {
                     />
                   ))}
                 </div>
-                <p className="text-sm text-slate-700 leading-relaxed flex-1" style={t.text === "The merino turtleneck is genuinely the softest thing I own. Arrived beautifully packaged and fits exactly as described." ? { color: "#096af1" } : undefined}>
+                <p className="text-sm text-slate-700 leading-relaxed flex-1" style={t.text === "The vitamin C serum has transformed my morning routine. My skin looks noticeably brighter after just three weeks. The packaging is minimal and gorgeous too." ? { fontSize: "18px" } : (t.text === "The merino turtleneck is genuinely the softest thing I own. Arrived beautifully packaged and fits exactly as described." ? { color: "#096af1" } : undefined)}>
                   &ldquo;{t.text}&rdquo;
                 </p>
                 <div className="flex items-center gap-3 pt-2 border-t border-black/5">
