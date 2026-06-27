@@ -855,7 +855,7 @@ export default function HomePage() {
                     />
                   ))}
                 </div>
-                <p className="text-sm text-slate-700 leading-relaxed flex-1">
+                <p className="text-sm text-slate-700 leading-relaxed flex-1" style={t.text === "The merino turtleneck is genuinely the softest thing I own. Arrived beautifully packaged and fits exactly as described." ? { color: "#096af1" } : undefined}>
                   &ldquo;{t.text}&rdquo;
                 </p>
                 <div className="flex items-center gap-3 pt-2 border-t border-black/5">
